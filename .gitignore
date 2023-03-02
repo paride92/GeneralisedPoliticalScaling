@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Manually added
+.DS_Store
+data/
+embedding_models/
+
 # Distribution / packaging
 .Python
 build/
