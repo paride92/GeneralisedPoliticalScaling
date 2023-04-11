@@ -1,1 +1,1 @@
-# Investigating Populist Positioning Using Distributed Representations of Politicians and Political Parties in Semantic Space
+# Conceptual Axes of Difference: A Generalised Approach to Scaling Political Actors with Embedding Representations
