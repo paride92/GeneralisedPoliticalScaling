@@ -1,5 +1,5 @@
 **Notes:**
-- REPO UNDER CONSTRUCTION!
+- REPO UNDER CONSTRUCTION! To be expanded...
 
 # Generalised Political Scaling
 
@@ -7,4 +7,4 @@ This repository contains replication data and code for the research paper *A Gen
 
 For further documentation of data collection, please refer to the [data collection repo](https://github.com/mathiasbruun/DCPA).
 
-Embeddings are too large to upload here. They are hosted on Git LFS.
+Embeddings are too large to upload here. They will be hosted elsewhere.
