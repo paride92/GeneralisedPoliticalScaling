@@ -132,7 +132,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-validation/
-good-runs.ipynb
-OLD/
-validation/
