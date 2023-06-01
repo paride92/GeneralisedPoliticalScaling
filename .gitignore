@@ -8,7 +8,7 @@ __pycache__/
 
 # Manually added
 .DS_Store
-data/
+data/raw/
 embedding_models/
 
 # Distribution / packaging
