@@ -9,5 +9,5 @@ This repository contains replication data and code for the research paper *A Gen
 
 For documentation of the collection of parliamentary transcripts, please refer to my [data collection repo](https://github.com/mathiasbruun/DCPA) which additionally documents the retrieval of political tweets and Meta ads. Embedding files are quite large and thus hosted on LFS.
 
-For installation of the `politician2vec` package, see [its dedicated repo](https://github.com/mathiasbruun/politician2vec). Note that all functionality provided is still in an **early experimental stage**!
+For installation of the `politician2vec` package, see [its dedicated repo](https://github.com/mathiasbruun/politician2vec). Note that all functionality provided is still in an **early experimental stage**! Some functionality developed as part of this project is yet to be added to the package proper.
 
